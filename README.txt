@@ -3,7 +3,7 @@
 #*  Course:  CSC328							
 #*  Instructor:  Dr. Frye						
 #*  Assignment:  Concurrent TCP Client and Server				
-#*  DUE DATE: 11/30/2015							
+#*  DUE DATE: 12/6/2015							
 #*  Filename:  client.py							
 #*  Purpose:  The purpose of these two programs is to create a concurrent TCP
 #*		server and client.				
