@@ -4,7 +4,7 @@
 #*  Instructor:  Dr. Frye						
 #*  Assignment:  Concurrent TCP Client and Server				
 #*  DUE DATE: 12/6/2015							
-#*  Filename:  client.py							
+#*  Filename:  README.txt							
 #*  Purpose:  The purpose of these two programs is to create a concurrent TCP
 #*		server and client.				
 #************************************************************************
